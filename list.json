@@ -1,0 +1,151 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "List 1",
+      "marked": true,
+      "items": [
+        {
+          "id": 1,
+          "name": "item 2",
+          "value": 12,
+          "checked": true,
+          "color": "#494dd0"
+        },
+        {
+          "id": 2,
+          "name": "item 2",
+          "value": 0,
+          "checked": false,
+          "color": "#2875c8"
+        },
+        {
+          "id": 3,
+          "name": "item 3",
+          "value": 41,
+          "checked": true,
+          "color": "#f02438"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "List 2",
+      "marked": true,
+      "items": [
+        {
+          "id": 4,
+          "name": "item 1",
+          "value": 21,
+          "checked": true,
+          "color": "#b62542"
+        },
+        {
+          "id": 5,
+          "name": "item 2",
+          "value": 6,
+          "checked": true,
+          "color": "#349ac5"
+        },
+        {
+          "id": 6,
+          "name": "item 3",
+          "value": 2,
+          "checked": true,
+          "color": "#87a48d"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "List 3",
+      "marked": true,
+      "items": [
+        {
+          "id": 7,
+          "name": "item 1",
+          "value": 26,
+          "checked": true,
+          "color": "#bf8e2b"
+        },
+        {
+          "id": 8,
+          "name": "item 2",
+          "value": 0,
+          "checked": true,
+          "color": "#02f226"
+        },
+        {
+          "id": 9,
+          "name": "item 3",
+          "value": 18,
+          "checked": true,
+          "color": "#eb1400"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "List 4",
+      "marked": true,
+      "items": [
+        {
+          "id": 10,
+          "name": "item 1",
+          "value": 14,
+          "checked": false,
+          "color": "#dadcdd"
+        },
+        {
+          "id": 11,
+          "name": "item 2",
+          "value": 2,
+          "checked": true,
+          "color": "#27d540"
+        },
+        {
+          "id": 12,
+          "name": "item 3",
+          "value": 41,
+          "checked": true,
+          "color": "#39b1ad"
+        },
+        {
+          "id": 13,
+          "name": "item 4",
+          "value": 8,
+          "checked": true,
+          "color": "#410101"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "List 5",
+      "marked": true,
+      "items": [
+        {
+          "id": 14,
+          "name": "item 1",
+          "value": 45,
+          "checked": true,
+          "color": "#e2a918"
+        },
+        {
+          "id": 15,
+          "name": "item 2",
+          "value": 17,
+          "checked": true,
+          "color": "#9341aa"
+        },
+        {
+          "id": 16,
+          "name": "item 3",
+          "value": 4,
+          "checked": true,
+          "color": "#fce727"
+        }
+      ]
+    }
+  ]
+}
