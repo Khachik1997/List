@@ -7,7 +7,9 @@ npm install
 ```
 ### run json-server
 
+```sh
 json-server --watch list.json
+```
 
 ### Compile and Hot-Reload for Development
 
